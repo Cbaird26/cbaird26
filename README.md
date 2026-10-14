@@ -11,6 +11,8 @@
 - [toe-2026-updates](https://github.com/Cbaird26/toe-2026-updates) — public docs hub, consoles, and the [Zora AI/Science Explorer Toolkit](https://cbaird26.github.io/toe-2026-updates/zora-ai-science-explorer-toolkit/) (educational guide, worksheets, demo index, claim-safety checklist)
 - [toe-research-2025](https://github.com/Cbaird26/toe-research-2025) — 2025 research repository (constraints, fifth-force bounds, hypothesis triage)
 
+**Reproduction and working sets:** [toe-empirical-validation](https://github.com/Cbaird26/toe-empirical-validation) — replication-ladder spine (one-command reproduction, null fixtures, preregistration templates); [mqgt-scf-phase3-public](https://github.com/Cbaird26/mqgt-scf-phase3-public) — Phase 3 scripts, outputs and notes behind the corrected unified edition (Sep 2026); [uv-reconstruction-frg](https://github.com/Cbaird26/uv-reconstruction-frg) — auditable 41-coupling FRG reconstruction scaffold with tests.
+
 **Apps and demos:** [professional-launch](https://github.com/Cbaird26/professional-launch) (Zora Discovery launch shell), [fold-space-engine](https://github.com/Cbaird26/fold-space-engine).
 
 **Canonical thesis (Zenodo v258):** [10.5281/zenodo.19325026](https://doi.org/10.5281/zenodo.19325026) · all records: [Baird, Christopher Michael](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Baird%2C%20Christopher%20Michael%22)
