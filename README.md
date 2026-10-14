@@ -9,7 +9,7 @@
 - [mqgt-scf-science-public](https://github.com/Cbaird26/mqgt-scf-science-public) — canonical upstream corpus
 - [mqgt-gate03-external-reproduction](https://github.com/Cbaird26/mqgt-gate03-external-reproduction) — GATE-03 preregistered reproduction packet (software-validation / protocol stage)
 - [toe-2026-updates](https://github.com/Cbaird26/toe-2026-updates) — public docs hub, consoles, and the [Zora AI/Science Explorer Toolkit](https://cbaird26.github.io/toe-2026-updates/zora-ai-science-explorer-toolkit/) (educational guide, worksheets, demo index, claim-safety checklist)
-- [A-Theory-of-Everything---Baird-et-al-2025-.pdf](https://github.com/Cbaird26/A-Theory-of-Everything---Baird-et-al-2025-.pdf) (to be renamed `toe-research-2025`) — 2025 research repository (constraints, fifth-force bounds, hypothesis triage)
+- [toe-research-2025](https://github.com/Cbaird26/toe-research-2025) — 2025 research repository (constraints, fifth-force bounds, hypothesis triage)
 
 **Apps and demos:** [professional-launch](https://github.com/Cbaird26/professional-launch) (Zora Discovery launch shell), [fold-space-engine](https://github.com/Cbaird26/fold-space-engine).
 
